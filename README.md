@@ -21,6 +21,4 @@ kubectl port-forward -n lab3 sidecar-pod 8080:80 &
 curl localhost:8080/date.log
 ```
 
-Example logs that have been saved:
-
 ![Wynik](./wynik.png)
